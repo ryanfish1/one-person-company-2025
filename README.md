@@ -120,6 +120,8 @@
     - **[Intercom Fin](https://www.intercom.com/ai-bot)**: 如果预算充足，AI 客服能拦截 80% 的基础问题。
 - **个人知识库**:
     - **[Notion](https://notion.so)** / **[Obsidian](https://obsidian.md)**: 管理任务、文档和灵感。
+- **AI Agent 技能**:
+    - **[Aura-huang/agency-agents-cn](https://github.com/Aura-huang/agency-agents-cn)** - 一人公司技能库中国版。针对中国市场（微信、小红书、抖音、B站、知乎等）深度优化的 15+ 原创 Agent 角色，一人创业者专属。
 
 ---
 
